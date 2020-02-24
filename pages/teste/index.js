@@ -1,12 +1,12 @@
 import Head from "next/head";
 
 const Home = () => (
-  <div className="container">
+  <div className="hero">
     <Head>
       <title>Matheus asasd</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
-    <h1>ola mundo</h1>{" "}
+    {/* <h1>ola mundo</h1>{ */}
   </div>
 );
 
